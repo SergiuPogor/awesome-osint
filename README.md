@@ -1008,6 +1008,7 @@ algorithms, knowledgebase and AI technology.
 * [urlQuery](https://urlquery.net)
 * [urlscan](https://urlscan.io/) -  is a free service to scan and analyse websites.
 * [URLVoid](https://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
+* [Vacato](https://vacato.io) - Free RDAP domain availability watchlist: scheduled checks + Telegram/email/Slack when status looks available (not a registrar or drop-catcher). Free tier: 10 domains.
 * [Validin](https://app.validin.com/) - Website and API to search current and historical DNS records for free
 * [Verisign](https://dnssec-debugger.verisignlabs.com)
 * [ViewDNS.info](https://viewdns.info)
